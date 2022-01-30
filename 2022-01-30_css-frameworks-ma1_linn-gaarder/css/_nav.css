@@ -1,0 +1,10 @@
+.navbar {
+    background-color: var(--background-light) !important;
+    font-size: 18px;
+    margin: 0;
+    color: var(--font-colour);
+}
+
+.active{
+    color: var(--primary-colour) !important;
+}
